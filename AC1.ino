@@ -22,3 +22,19 @@ void setup()
   pinMode(verde, OUTPUT);
   pinMode(azul, OUTPUT);
   
+ Serial.begin(9600);
+	
+  Serial.println("AC1 - Meu Primeiro Projeto 2021");
+  Serial.println("                           V1.0");
+  Serial.println("Grupo: NOME AQUI               ");
+}
+
+void loop()
+{
+  //toque do botão 1
+  if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
+  	Serial.println("botao 1 apertado");
+    ledVermelho(true);
+  	lastDebounceTime1 = millis();
+  }  
+   
