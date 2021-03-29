@@ -48,3 +48,31 @@ void loop()
   if(getTemperatura() > 30){
     ledAzul(true);
   }else{
+ledAzul(false); 
+    // troca de falso para false
+  }
+  	
+  delay(10);
+}
+
+void ledVermelho(bool estado){
+	digitalWrite(vermelho,estado);
+}
+void ledVerde(){
+ //precisa fazer  
+}
+void ledAzul(bool estado){
+	digitalWrite(azul,estado);
+}
+
+int getTemperatura(){
+  	int temperaturaC;
+	temperaturaC = map(((analogRead(A0) - 20) * 3.04), 0, 1023, -40, 125);
+  	return temperaturaC;
+} 
+
+int getLuminosidade(){
+  	int luminosidade;
+	luminosidade = map(analogRead(A1), 6, 619, -3, 10);
+  	return luminosidade;
+}
