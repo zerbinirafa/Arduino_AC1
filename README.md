@@ -5,7 +5,6 @@ Documentação do projeto e short bio dos integrantes:
 
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/Ac1-esquema.png)
 
-![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/Arduino%20montagem.jfif)
 
 ## **Projeto:** 
 
