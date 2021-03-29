@@ -11,6 +11,8 @@ Documentação do projeto e short bio dos integrantes:
 
 **Short bio dos integrantes:**
 
+![]()
+
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/Lourenne.jfif)
 
 
