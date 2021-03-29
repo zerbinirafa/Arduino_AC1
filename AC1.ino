@@ -38,3 +38,13 @@ void loop()
   	lastDebounceTime1 = millis();
   }  
    
+ //toque do botão 2
+  if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao2)){
+  	Serial.println("botao 2 apertado");
+    ledVermelho(false);
+  	lastDebounceTime1 = millis();
+  }
+  
+  if(getTemperatura() > 30){
+    ledAzul(true);
+  }else{
