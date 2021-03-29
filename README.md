@@ -25,7 +25,7 @@ Tenho 16 anos entrei no Módulo no primeiro ano do Fundamental I e eu serei resp
 
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-28%20at%2014.57.48.jpeg)
 
-Tenho 16 anos entrei no Módulo no quarto ano do Fundamental I e eu serei responsável pela correção de erros do código, a leitura do sensor de temperatura, seu teste e de parte dos comentários que serão feitos ao decorrer do projeto.
+Tenho 16 anos entrei no Módulo no terceiro ano do Fundamental I e eu serei responsável pela correção de erros do código, a leitura do sensor de temperatura, seu teste e de parte dos comentários que serão feitos ao decorrer do projeto.
 
 ## DOCUMENTAÇÃO DO PROJETO
 - Ajuste dos erros no código principal.
