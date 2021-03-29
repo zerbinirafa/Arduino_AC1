@@ -4,7 +4,7 @@
 Documentação do projeto e short bio dos integrantes:
 
 ![](https://img.shields.io/github/forks/Leoruiz197/Arduino_AC1)
-![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
+![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/Ac1-esquema.png)
 
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/Arduino%20montagem.jfif)
 
