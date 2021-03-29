@@ -11,7 +11,9 @@ Documentação do projeto e short bio dos integrantes:
 
 **Short bio dos integrantes:**
 
-![]()
+![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-28%20at%2014.54.28.jpeg)
+
+Olá meu nome é Jennifer Abigail, tenho 16 anos entrei no Módulo no primeiro ano do Ensino Médio e eu serei responsável pela parte da codificação da leitura do sensor de luminosidade, o seu teste e a parte dos comentários que será feita ao decorrer do projeto.
 
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/Lourenne.jfif)
 
