@@ -16,3 +16,9 @@ void setup()
 {
   pinMode(A0, INPUT);
   pinMode(A1, INPUT);
+ 
+  // correção de saida para output
+  pinMode(vermelho, OUTPUT);
+  pinMode(verde, OUTPUT);
+  pinMode(azul, OUTPUT);
+  
